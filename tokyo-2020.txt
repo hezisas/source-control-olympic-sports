@@ -10,6 +10,11 @@ Canoe Sprint
 Cycling Mountain Bike
 Cycling Road
 Cycling Track
+<<<<<<< HEAD
+=======
+Diving
+Dodge Ball
+>>>>>>> master
 Equestrian
 Fencing
 Football
@@ -22,6 +27,7 @@ Matkot On Israel Beaches
 Marathon Swimming
 Modern Pentathlon
 Rhythmic Gymnastics
+Rope Jumping
 Rowing
 Ruby Coding
 Rugby Sevens
