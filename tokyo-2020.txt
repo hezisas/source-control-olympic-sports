@@ -12,6 +12,7 @@ Cycling Mountain Bike
 Cycling Road
 Cycling Track
 Diving
+Dodge Ball
 Equestrian
 Fencing
 Football
@@ -22,6 +23,7 @@ Judo
 Marathon Swimming
 Modern Pentathlon
 Rhythmic Gymnastics
+Rope Jumping
 Rowing
 Rugby Sevens
 Sailing
